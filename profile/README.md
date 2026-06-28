@@ -18,6 +18,11 @@ Landit은 이 간극을 줄이기 위해 대화 맥락 속에서 발화를 분�
 - 의도 전달, 자연스러움, 표현 방식에 대한 상세 피드백.
 - 더 자연스러운 표현과 교정 이유 제공.
 
+## 서비스 주소
+
+- [`landit.kro.kr`](https://landit.kro.kr) - 한국인을 대상으로 한 영어 회화 서비스입니다.
+- [`land-it.kro.kr`](https://land-it.kro.kr) - 영어권 외국인을 대상으로 한 한국어 회화 서비스입니다.
+
 ## 공개 저장소
 
 - [`landit-ai`](https://github.com/Aragornnnnnn/landit-ai) - Landit의 AI 대화 및 피드백 기능을 위한 저장소입니다.
