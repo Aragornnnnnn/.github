@@ -1,17 +1,33 @@
-# Aragornnnnnn
+# Landit
 
-Aragornnnnnn is a GitHub organization for building and maintaining software projects.
+Landit은 영어 회화 학습자가 자신의 영어가 외국인에게 어떻게 들리는지 이해하고, 원하는 의도가 자연스럽게 전달되도록 돕는 서비스입니다.
 
-## What you'll find here
+우리는 학습자가 단순히 문장을 맞히는 것을 넘어 실제 대화에서 더 자연스럽고 자신 있게 말할 수 있도록 만드는 것을 목표로 합니다.
 
-- Project repositories and experiments.
-- Documentation for active work.
-- Shared engineering resources used across projects.
+## 우리가 해결하는 문제
 
-## Repositories
+영어를 공부하는 많은 학습자는 내가 말한 영어가 실제 외국인에게 어떤 인상으로 들리는지 알기 어렵습니다. 문법적으로 틀렸는지뿐 아니라, 의도가 제대로 전달되었는지, 표현이 어색하거나 차갑게 들리지는 않는지 확인하기도 쉽지 않습니다.
 
-Explore the pinned repositories below or browse the repository list to find active projects.
+Landit은 이 간극을 줄이기 위해 대화 맥락 속에서 발화를 분석하고, 외국인이 느낄 수 있는 반응과 개선 방향을 함께 제공합니다.
 
-## Contact
+## 주요 기능
 
-For questions or feedback, open an issue in the relevant repository.
+- 음성 기반 영어 대화.
+- 대화 중 사용자의 발화가 외국인에게 어떻게 들릴 수 있는지에 대한 반응 제공.
+- 사용자의 영어 발화를 한국어 감각으로 비유해 주는 피드백.
+- 의도 전달, 자연스러움, 표현 방식에 대한 상세 피드백.
+- 더 자연스러운 표현과 교정 이유 제공.
+
+## 공개 저장소
+
+- [`landit-ai`](https://github.com/Aragornnnnnn/landit-ai) - Landit의 AI 대화 및 피드백 기능을 위한 저장소입니다.
+- [`landit-be`](https://github.com/Aragornnnnnn/landit-be) - Landit의 백엔드 API와 서비스 로직을 위한 저장소입니다.
+- [`landit-iac`](https://github.com/Aragornnnnnn/landit-iac) - Landit 서비스 인프라를 코드로 관리하기 위한 저장소입니다.
+
+## 방향성
+
+Landit은 영어 학습자가 원어민처럼 말하는 경험에 가까워질 수 있도록, 실제 대화에서의 뉘앙스와 전달력을 중심으로 피드백을 설계합니다. 최종적으로는 사용자가 외국인 친구와 더 자연스럽게 대화할 수 있는 자신감을 얻도록 돕고자 합니다.
+
+## 문의
+
+프로젝트 관련 문의나 피드백은 각 저장소의 Issue를 통해 남겨 주세요.
