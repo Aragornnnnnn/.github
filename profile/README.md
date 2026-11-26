@@ -1,38 +1,50 @@
-# Landit
+<p align="center">
+  <img src="./assets/banner-ko.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
+</p>
 
-Landit은 영어 회화 학습자가 자신의 영어가 외국인에게 어떻게 들리는지 이해하고, 원하는 의도가 자연스럽게 전달되도록 돕는 서비스입니다.
+<p align="center">
+  <a href="https://apps.apple.com/app/id6787414201"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+  <a href="https://www.landit.im"><img src="https://img.shields.io/badge/landit.im-E07A3A?style=for-the-badge" alt="landit.im" /></a>
+</p>
 
-우리는 학습자가 단순히 문장을 맞히는 것을 넘어 실제 대화에서 더 자연스럽고 자신 있게 말할 수 있도록 만드는 것을 목표로 합니다.
+<p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
 
-## 우리가 해결하는 문제
+<br />
 
-영어를 공부하는 많은 학습자는 내가 말한 영어가 실제 외국인에게 어떤 인상으로 들리는지 알기 어렵습니다. 문법적으로 틀렸는지뿐 아니라, 의도가 제대로 전달되었는지, 표현이 어색하거나 차갑게 들리지는 않는지 확인하기도 쉽지 않습니다.
+문법이 맞아도 무례하게 들릴 수 있고, 조금 틀려도 마음은 통할 수 있어요.<br />
+**랜딧**은 AI 캐릭터와 영어로 대화하면서, 내 말이 **원어민에게 어떻게 들렸는지** 그 자리에서 보여 주는 영어 회화 앱이에요.
 
-Landit은 이 간극을 줄이기 위해 대화 맥락 속에서 발화를 분석하고, 외국인이 느낄 수 있는 반응과 개선 방향을 함께 제공합니다.
+- 💭 **원어민 속마음** — 말할 때마다 상대가 어떻게 받아들였는지 바로 보여요.
+- 🔁 **끊기지 않는 대화** — 실수해도 대화는 이어지고, 교정은 끝난 뒤에 받아요.
+- 🪜 **딱 한 단계 위 표현** — 어려운 문장 대신, 바로 따라 쓸 수 있는 문장을 알려 줘요.
 
-## 주요 기능
+<br />
 
-- 음성 기반 영어 대화.
-- 대화 중 사용자의 발화가 외국인에게 어떻게 들릴 수 있는지에 대한 반응 제공.
-- 사용자의 영어 발화를 한국어 감각으로 비유해 주는 피드백.
-- 의도 전달, 자연스러움, 표현 방식에 대한 상세 피드백.
-- 더 자연스러운 표현과 교정 이유 제공.
+<img src="./assets/ko-0-main.webp" alt="" width="100%" />
 
-## 서비스 주소
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/ko-1-scenario.webp" alt="" /></td>
+    <td width="50%"><img src="./assets/ko-2-roleplay.webp" alt="" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/ko-3-expression.webp" alt="" /></td>
+    <td width="50%"><img src="./assets/ko-4-smalltalk.webp" alt="" /></td>
+  </tr>
+</table>
 
-- [`landit.kro.kr`](https://landit.kro.kr) - 한국인을 대상으로 한 영어 회화 서비스입니다.
-- [`land-it.kro.kr`](https://land-it.kro.kr) - 영어권 외국인을 대상으로 한 한국어 회화 서비스입니다.
+<br />
 
-## 공개 저장소
+### 저장소
 
-- [`landit-ai`](https://github.com/Aragornnnnnn/landit-ai) - Landit의 AI 대화 및 피드백 기능을 위한 저장소입니다.
-- [`landit-be`](https://github.com/Aragornnnnnn/landit-be) - Landit의 백엔드 API와 서비스 로직을 위한 저장소입니다.
-- [`landit-iac`](https://github.com/Aragornnnnnn/landit-iac) - Landit 서비스 인프라를 코드로 관리하기 위한 저장소입니다.
+| | |
+| --- | --- |
+| [`landit-fe`](https://github.com/Aragornnnnnn/landit-fe) | 웹(Next.js)과 모바일 앱(Expo) 모노레포 |
+| [`landit-iac`](https://github.com/Aragornnnnnn/landit-iac) | 서비스 인프라를 코드로 관리 |
+| [`landit-admin`](https://github.com/Aragornnnnnn/landit-admin) | 운영 어드민 |
+| [`landit-tech-docs`](https://github.com/Aragornnnnnn/landit-tech-docs) | 공개 설계 문서와 검증 자료 |
 
-## 방향성
+<br />
 
-Landit은 영어 학습자가 원어민처럼 말하는 경험에 가까워질 수 있도록, 실제 대화에서의 뉘앙스와 전달력을 중심으로 피드백을 설계합니다. 최종적으로는 사용자가 외국인 친구와 더 자연스럽게 대화할 수 있는 자신감을 얻도록 돕고자 합니다.
-
-## 문의
-
-프로젝트 관련 문의나 피드백은 각 저장소의 Issue를 통해 남겨 주세요.
+<p align="center"><sub>문의나 피드백은 각 저장소의 Issue로 남겨 주세요.</sub></p>
