@@ -38,6 +38,11 @@ Real reactions only happen in real situations. Every day, a moment you’ll face
 
 Say something and instantly see how the other person really took it. Kind words make them smile; rude ones make them 💢 angry. Afterwards, every sentence comes with how it actually sounded.
 
+> **Under the hood**
+> - **8 facial expressions** — the emotion the server detects alongside each inner thought (happy, love, angry, sad, sulky, shy, …) drives the character’s face until the next thought arrives.
+> - **Lip-sync that follows English pronunciation** — our TTS doesn’t return per-character timings, so we map English spelling to 4 mouth shapes (closed, round, wide, open). Before playback we pre-compute a 10 ms loudness track from the waveform and spread the mouth shapes only over voiced segments, so the mouth never runs ahead during pauses.
+> - **Runtime-free character animation** — SVG parts exported from Rive are driven by our own player: blinking, breathing, expression transitions and mouth morphing, all lightweight inside the WebView.
+
 <p align="center"><img src="./assets/en-1-scenario.webp" alt="Scenario talk" width="640" /></p>
 
 ### <img src="./assets/tossface/books.png" width="26" height="26" align="absmiddle" alt="" /> Phrase learning
