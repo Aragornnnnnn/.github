@@ -7,9 +7,9 @@
 <p align="center">Find out how your English really sounds to native speakers.</p>
 
 <h3 align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/tossface-v2/phone.png" width="22" height="22" align="absmiddle" alt="" /> Android</a>
   &nbsp;|&nbsp;
-  <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/tossface-v2/apple.png" width="22" height="22" align="absmiddle" alt="" /> iOS</a>
 </h3>
 
 <p align="center"><a href="./README.md">한국어</a> · <b>English</b> · <a href="./README.ja.md">日本語</a></p>
