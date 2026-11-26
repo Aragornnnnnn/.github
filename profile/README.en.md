@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="./assets/banner-en.webp" alt="Landit — Speak English that actually lands" width="100%" />
+</p>
+
 <h1 align="center">Landit</h1>
 
 <p align="center">Find out how your English really sounds to native speakers.</p>
 
 <h3 align="center">
-  <a href="https://www.landit.im">🌐 Web</a>
-  &nbsp;|&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
   &nbsp;|&nbsp;
   <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
@@ -15,10 +17,6 @@
 </p>
 
 <p align="center"><a href="./README.md">한국어</a> · <b>English</b> · <a href="./README.ja.md">日本語</a></p>
-
-<p align="center">
-  <img src="./assets/banner-en.webp" alt="Landit — Speak English that actually lands" width="100%" />
-</p>
 
 <br />
 

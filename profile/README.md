@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="./assets/banner-ko.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
+</p>
+
 <h1 align="center">랜딧 (Landit)</h1>
 
 <p align="center">내 영어가 원어민에게 어떻게 들리는지, 바로 알려 주는 AI 영어 회화</p>
 
 <h3 align="center">
-  <a href="https://www.landit.im">🌐 Web</a>
-  &nbsp;|&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
   &nbsp;|&nbsp;
   <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
@@ -15,10 +17,6 @@
 </p>
 
 <p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
-
-<p align="center">
-  <img src="./assets/banner-ko.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
-</p>
 
 <br />
 

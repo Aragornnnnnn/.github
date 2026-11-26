@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="./assets/banner-ja.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
+</p>
+
 <h1 align="center">Landit（ランディット）</h1>
 
 <p align="center">あなたの英語がネイティブにどう聞こえるか、すぐにわかるAI英会話</p>
 
 <h3 align="center">
-  <a href="https://www.landit.im">🌐 Web</a>
-  &nbsp;|&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
   &nbsp;|&nbsp;
   <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
@@ -15,10 +17,6 @@
 </p>
 
 <p align="center"><a href="./README.md">한국어</a> · <a href="./README.en.md">English</a> · <b>日本語</b></p>
-
-<p align="center">
-  <img src="./assets/banner-ja.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
-</p>
 
 <br />
 
