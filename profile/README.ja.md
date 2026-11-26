@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-ja.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
+  <img src="./assets/banner-ja-v2.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
 </p>
 
 <h1 align="center">Landit（ランディット）</h1>
