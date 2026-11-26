@@ -6,11 +6,11 @@
 
 <p align="center">내 영어가 원어민에게 어떻게 들리는지, 바로 알려 주는 AI 영어 회화</p>
 
-<h3 align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/tossface-v2/phone.png" width="22" height="22" align="absmiddle" alt="" /> Android</a>
-  &nbsp;|&nbsp;
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/tossface-v2/apple.png" width="22" height="22" align="absmiddle" alt="" /> iOS</a>
-</h3>
+<p align="center">
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="48" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="48" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im/ko"><img src="./assets/buttons/btn-web-ko.png" height="48" alt="랜딧 랜딩 페이지" /></a>
+</p>
 
 <p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
 

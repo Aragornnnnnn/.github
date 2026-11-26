@@ -6,11 +6,11 @@
 
 <p align="center">あなたの英語がネイティブにどう聞こえるか、すぐにわかるAI英会話</p>
 
-<h3 align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/tossface-v2/phone.png" width="22" height="22" align="absmiddle" alt="" /> Android</a>
-  &nbsp;|&nbsp;
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/tossface-v2/apple.png" width="22" height="22" align="absmiddle" alt="" /> iOS</a>
-</h3>
+<p align="center">
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="48" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="48" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im/ja"><img src="./assets/buttons/btn-web-ja.png" height="48" alt="Landit ウェブサイト" /></a>
+</p>
 
 <p align="center"><a href="./README.md">한국어</a> · <a href="./README.en.md">English</a> · <b>日本語</b></p>
 
