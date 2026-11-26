@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-en-v2.webp" alt="Landit — Speak English that actually lands" width="100%" />
+  <img src="./assets/banner-en-v3.webp" alt="Landit — Speak English that actually lands" width="100%" />
 </p>
 
 <h1 align="center">Landit</h1>

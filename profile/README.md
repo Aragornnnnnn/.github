@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-ko-v2.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
+  <img src="./assets/banner-ko-v3.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
 </p>
 
 <h1 align="center">랜딧 (Landit)</h1>
