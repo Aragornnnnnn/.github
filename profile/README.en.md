@@ -18,9 +18,9 @@
 
 ## Landit started with this question
 
-- <img src="./assets/tossface/sweat.png" width="20" height="20" alt="" /> Your grammar was right — so why did the other person look puzzled?
-- <img src="./assets/tossface/speaknoevil.png" width="20" height="20" alt="" /> There was no way to tell whether your English sounded rude or natural.
-- <img src="./assets/tossface/thinking.png" width="20" height="20" alt="" /> Plenty of apps fixed your mistakes. None told you **how you actually sounded**.
+- <img src="./assets/tossface/sweat.png" width="20" height="20" align="absmiddle" alt="" /> Your grammar was right — so why did the other person look puzzled?
+- <img src="./assets/tossface/speaknoevil.png" width="20" height="20" align="absmiddle" alt="" /> There was no way to tell whether your English sounded rude or natural.
+- <img src="./assets/tossface/thinking.png" width="20" height="20" align="absmiddle" alt="" /> Plenty of apps fixed your mistakes. None told you **how you actually sounded**.
 
 So Landit shows you **how you sounded, not just whether you were right**. You talk like in a real conversation, see how the other person reacts, and afterwards build your skills step by step with corrections and phrases matched to your level.
 
@@ -28,31 +28,31 @@ So Landit shows you **how you sounded, not just whether you were right**. You ta
 
 ## A day with Landit
 
-### <img src="./assets/tossface/target.png" width="26" height="26" alt="" /> Today’s scenario
+### <img src="./assets/tossface/target.png" width="26" height="26" align="absmiddle" alt="" /> Today’s scenario
 
 Real reactions only happen in real situations. Every day, a moment you’ll face abroad — your first day in the dorm, a class, a café — arrives **at a difficulty matched to your level**.
 
 <p align="center"><img src="./assets/en-0-main.webp" alt="Today’s scenario" width="640" /></p>
 
-### <img src="./assets/tossface/speak.png" width="26" height="26" alt="" /> Scenario talk
+### <img src="./assets/tossface/speak.png" width="26" height="26" align="absmiddle" alt="" /> Scenario talk
 
 Say something and instantly see how the other person really took it. Kind words make them smile; rude ones make them 💢 angry. Afterwards, every sentence comes with how it actually sounded.
 
 <p align="center"><img src="./assets/en-1-scenario.webp" alt="Scenario talk" width="640" /></p>
 
-### <img src="./assets/tossface/books.png" width="26" height="26" alt="" /> Phrase learning
+### <img src="./assets/tossface/books.png" width="26" height="26" align="absmiddle" alt="" /> Phrase learning
 
 Every awkward moment becomes your next lesson. Landit picks phrases **just one step above your level** from your own conversation, and you make them yours through quizzes, examples and pronunciation.
 
 <p align="center"><img src="./assets/en-3-expression.webp" alt="Phrase learning" width="640" /></p>
 
-### <img src="./assets/tossface/write.png" width="26" height="26" alt="" /> Roleplay
+### <img src="./assets/tossface/write.png" width="26" height="26" align="absmiddle" alt="" /> Roleplay
 
 Practice situations no textbook covers. Write any scene — like talking a zombie into going vegetarian — and it becomes a conversation. Use a phrase you learned, and Landit notices.
 
 <p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
 
-### <img src="./assets/tossface/chat.png" width="26" height="26" alt="" /> Small talk
+### <img src="./assets/tossface/chat.png" width="26" height="26" align="absmiddle" alt="" /> Small talk
 
 English that lands grows through relationships. Three friends **remember** your last chat and ask how you’ve been, so it feels like catching up with friends, not studying.
 
