@@ -30,7 +30,7 @@ So Landit shows you **how you sounded, not just whether you were right**. You ta
 
 ### <img src="./assets/tossface-v2/target.png" width="26" height="26" align="absmiddle" alt="" /> Today’s scenario
 
-Real reactions only happen in real situations. Every day, a moment you’ll face abroad — your first day in the dorm, a class, a café — arrives **at a difficulty matched to your level**.
+Real reactions only happen in real situations. Every day, a moment you’ll face abroad — your first day in the dorm, a class, a café — arrives at a difficulty matched to your level.
 
 <p align="center"><img src="./assets/en-0-main.webp" alt="Today’s scenario" width="640" /></p>
 
@@ -42,19 +42,19 @@ Say something and see how the other person really took it. Characters shift betw
 
 ### <img src="./assets/tossface-v2/books.png" width="26" height="26" align="absmiddle" alt="" /> Phrase learning
 
-Every awkward moment becomes your next lesson. Landit picks phrases **just one step above your level** from your own conversation, and you make them yours through quizzes, examples and pronunciation.
+Landit analyzes the conversation you just had and finds where you could have sounded more natural. Those improvements become your next lesson: phrases just one step above your level, made yours through quizzes, examples and pronunciation.
 
 <p align="center"><img src="./assets/en-3-expression.webp" alt="Phrase learning" width="640" /></p>
 
 ### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> Roleplay
 
-Practice situations no textbook covers. Write any scene — like talking a zombie into going vegetarian — and it becomes a conversation. Use a phrase you learned, and Landit notices.
+From the job interview you have next week to talking a zombie into going vegetarian, just write the situation and the conversation starts. Use a phrase you learned and Landit notices; awkward sentences get fixed on the spot.
 
 <p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
 
 ### <img src="./assets/tossface-v2/chat.png" width="26" height="26" align="absmiddle" alt="" /> Small talk
 
-English that lands grows through relationships. Three friends **remember** your last chat and ask how you’ve been, so it feels like catching up with friends, not studying.
+Three friends with different accents and personalities remember your last chat and ask how you’ve been — how the hike went, even the names of the friends who came along — so it feels like catching up with friends, not studying.
 
 <p align="center"><img src="./assets/en-4-smalltalk.webp" alt="Small talk" width="640" /></p>
 

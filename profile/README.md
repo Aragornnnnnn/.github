@@ -30,7 +30,7 @@
 
 ### <img src="./assets/tossface-v2/target.png" width="26" height="26" align="absmiddle" alt="" /> 오늘의 시나리오
 
-진짜 반응은 진짜 상황에서 나와요. 기숙사 첫날, 수업, 카페처럼 해외에서 마주칠 순간이 **내 수준에 맞는 난이도**로 매일 하나씩 도착해요.
+진짜 반응은 진짜 상황에서 나와요. 기숙사 첫날, 수업, 카페처럼 해외에서 마주칠 순간이 내 수준에 맞는 난이도로 매일 하나씩 도착해요.
 
 <p align="center"><img src="./assets/ko-0-main.webp" alt="오늘의 시나리오" width="640" /></p>
 
@@ -42,18 +42,18 @@
 
 ### <img src="./assets/tossface-v2/books.png" width="26" height="26" align="absmiddle" alt="" /> 표현 학습
 
-어색했던 순간은 그대로 다음 공부가 돼요. 방금 대화에서 **내 수준보다 딱 한 단계 위** 표현을 골라, 퀴즈·예문·발음까지 내 것으로 만들어요.
+방금 대화를 분석해 더 자연스럽게 말할 수 있었던 부분을 찾아 줘요. 그 개선점이 그대로 다음 공부가 되고, 내 수준보다 딱 한 단계 위 표현을 퀴즈·예문·발음까지 내 것으로 만들어요.
 
 <p align="center"><img src="./assets/ko-3-expression.webp" alt="표현 학습" width="640" /></p>
 
 ### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> 롤플레이
 
-교과서에 없는 상황도 연습할 수 있어요. 좀비에게 채식 권하기처럼 상상한 장면을 적으면 바로 대화가 되고, 배운 표현을 쓰면 알아봐 줘요.
+다음 주 면접처럼 당장 연습해야 하는 상황도, 좀비에게 채식 권하기 같은 상상 속 장면도 적기만 하면 바로 대화가 돼요. 대화하면서 배운 표현을 쓰면 알아보고, 어색한 문장은 바로 고쳐 줘요.
 
 <p align="center"><img src="./assets/ko-2-roleplay.webp" alt="롤플레이" width="640" /></p>
 
 ### <img src="./assets/tossface-v2/chat.png" width="26" height="26" align="absmiddle" alt="" /> 스몰톡
 
-통하는 영어는 결국 관계 속에서 늘어요. 세 친구가 지난 대화를 **기억하고** 먼저 안부를 물어서, 공부가 아니라 친구와 수다처럼 이어져요.
+억양도 성격도 다른 세 친구가 지난 대화를 기억하고 먼저 안부를 물어요. 지난번 말한 등산은 어땠는지, 같이 간 친구 이름까지 기억해서 공부가 아니라 친구와 수다 떠는 것처럼 이어져요.
 
 <p align="center"><img src="./assets/ko-4-smalltalk.webp" alt="스몰톡" width="640" /></p>
