@@ -47,16 +47,15 @@ Landit analyzes the conversation you just had, finds phrases you could have said
 
 <p align="center"><img src="./assets/en-3-expression.webp" alt="Phrase learning" width="640" /></p>
 
-### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> Roleplay
-
-From the job interview you have next week to talking a zombie into going vegetarian, just write the situation and the conversation starts. Use a phrase you learned and Landit notices; awkward sentences get fixed on the spot.
-
-<p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
-
 ### <img src="./assets/tossface-v2/chat.png" width="26" height="26" align="absmiddle" alt="" /> Small talk
 
 Three friends with different accents and personalities remember your last chat and ask how you’ve been — how the hike went, even the names of the friends who came along — so it feels like catching up with friends, not studying.
 
 <p align="center"><img src="./assets/en-4-smalltalk.webp" alt="Small talk" width="640" /></p>
 
+### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> Roleplay
+
+From the job interview you have next week to talking a zombie into going vegetarian, just write the situation and the conversation starts. Use a phrase you learned and Landit notices; awkward sentences get fixed on the spot.
+
+<p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
 <p align="center"><sub>The app is currently available in Korean and Japanese.</sub></p>

@@ -47,14 +47,14 @@
 
 <p align="center"><img src="./assets/ja-3-expression.webp" alt="フレーズ学習" width="640" /></p>
 
-### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> ロールプレイ
-
-来週の面接のように今すぐ練習したい場面も、ゾンビに菜食をすすめるような想像の場面も、書くだけですぐ会話になります。習ったフレーズを使えば気づいてくれて、不自然な文はその場で添削します。
-
-<p align="center"><img src="./assets/ja-2-roleplay.webp" alt="ロールプレイ" width="640" /></p>
-
 ### <img src="./assets/tossface-v2/chat.png" width="26" height="26" align="absmiddle" alt="" /> スモールトーク
 
 アクセントも性格も違う3人の友だちが、前回の会話を覚えていて近況を聞いてくれます。山登りはどうだったか、一緒に行った友だちの名前まで覚えているので、勉強ではなく友だちとのおしゃべりのように続きます。
 
 <p align="center"><img src="./assets/ja-4-smalltalk.webp" alt="スモールトーク" width="640" /></p>
+
+### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> ロールプレイ
+
+来週の面接のように今すぐ練習したい場面も、ゾンビに菜食をすすめるような想像の場面も、書くだけですぐ会話になります。習ったフレーズを使えば気づいてくれて、不自然な文はその場で添削します。
+
+<p align="center"><img src="./assets/ja-2-roleplay.webp" alt="ロールプレイ" width="640" /></p>

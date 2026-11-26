@@ -47,14 +47,14 @@
 
 <p align="center"><img src="./assets/ko-3-expression.webp" alt="표현 학습" width="640" /></p>
 
-### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> 롤플레이
-
-다음 주 면접처럼 당장 연습해야 하는 상황도, 좀비에게 채식 권하기 같은 상상 속 장면도 적기만 하면 바로 대화가 돼요. 대화하면서 배운 표현을 쓰면 알아보고, 어색한 문장은 바로 고쳐 줘요.
-
-<p align="center"><img src="./assets/ko-2-roleplay.webp" alt="롤플레이" width="640" /></p>
-
 ### <img src="./assets/tossface-v2/chat.png" width="26" height="26" align="absmiddle" alt="" /> 스몰톡
 
 억양도 성격도 다른 세 친구가 지난 대화를 기억하고 먼저 안부를 물어요. 지난번 말한 등산은 어땠는지, 같이 간 친구 이름까지 기억해서 공부가 아니라 친구와 수다 떠는 것처럼 이어져요.
 
 <p align="center"><img src="./assets/ko-4-smalltalk.webp" alt="스몰톡" width="640" /></p>
+
+### <img src="./assets/tossface-v2/write.png" width="26" height="26" align="absmiddle" alt="" /> 롤플레이
+
+다음 주 면접처럼 당장 연습해야 하는 상황도, 좀비에게 채식 권하기 같은 상상 속 장면도 적기만 하면 바로 대화가 돼요. 대화하면서 배운 표현을 쓰면 알아보고, 어색한 문장은 바로 고쳐 줘요.
+
+<p align="center"><img src="./assets/ko-2-roleplay.webp" alt="롤플레이" width="640" /></p>
