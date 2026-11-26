@@ -16,27 +16,45 @@
 
 <br />
 
-문법이 맞아도 무례하게 들릴 수 있고, 조금 틀려도 마음은 통할 수 있어요.<br />
-**랜딧**은 AI 캐릭터와 영어로 대화하면서, 내 말이 **원어민에게 어떻게 들렸는지** 그 자리에서 보여 주는 영어 회화 앱이에요.
+## 이런 문제가 있어요
 
-- 💭 **원어민 속마음** — 말할 때마다 상대가 어떻게 받아들였는지 바로 보여요.
-- 🔁 **끊기지 않는 대화** — 실수해도 대화는 이어지고, 교정은 끝난 뒤에 받아요.
-- 🪜 **딱 한 단계 위 표현** — 어려운 문장 대신, 바로 따라 쓸 수 있는 문장을 알려 줘요.
+- 문법은 맞았는데, 상대 반응이 어딘가 어색했던 적 있나요?
+- 내 영어가 무례하게 들렸는지, 자연스러웠는지 알 길이 없어요.
+- 틀린 걸 고쳐 주는 앱은 많지만, **어떻게 들렸는지**는 아무도 알려 주지 않아요.
 
 <br />
 
-<img src="./assets/ko-0-main.webp" alt="" width="100%" />
+## 이렇게 해결해요
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/ko-1-scenario.webp" alt="" /></td>
-    <td width="50%"><img src="./assets/ko-2-roleplay.webp" alt="" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/ko-3-expression.webp" alt="" /></td>
-    <td width="50%"><img src="./assets/ko-4-smalltalk.webp" alt="" /></td>
-  </tr>
-</table>
+### 🌅 오늘의 시나리오
+
+기숙사, 수업, 카페까지. 해외에서 실제로 마주칠 상황이 매일 하나씩 도착해요.
+
+<p align="center"><img src="./assets/ko-0-main.webp" alt="오늘의 시나리오" width="640" /></p>
+
+### 💭 시나리오 대화
+
+AI 캐릭터와 말로 대화하면, 내 말을 들은 상대의 **속마음**과 표정이 바로 보여요. 대화가 끝나면 문장마다 한국어로 치면 어떻게 들렸는지 알려 줘요.
+
+<p align="center"><img src="./assets/ko-1-scenario.webp" alt="시나리오 대화" width="640" /></p>
+
+### 🎭 롤플레이
+
+좀비에게 채식 권하기처럼 상상한 상황을 적으면, 그림까지 그려진 나만의 시나리오가 돼요. 배운 표현을 쓰면 알아보고, 어색한 문장은 바로 고쳐 줘요.
+
+<p align="center"><img src="./assets/ko-2-roleplay.webp" alt="롤플레이" width="640" /></p>
+
+### 📚 표현 학습
+
+방금 대화에서 원어민처럼 말할 수 있는 표현을 골라, 퀴즈·그림 예문·발음 교정까지 이어서 익혀요.
+
+<p align="center"><img src="./assets/ko-3-expression.webp" alt="표현 학습" width="640" /></p>
+
+### ☕ 스몰톡
+
+억양도 성격도 다른 세 친구가 지난 대화를 **기억하고** 먼저 말을 걸어요. 친구처럼 이어지는 대화 속에서 자연스럽게 늘어요.
+
+<p align="center"><img src="./assets/ko-4-smalltalk.webp" alt="스몰톡" width="640" /></p>
 
 <br />
 

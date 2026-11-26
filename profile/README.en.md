@@ -16,27 +16,45 @@
 
 <br />
 
-Grammatically correct English can still sound rude — and slightly broken English can still land.<br />
-**Landit** is an AI English conversation app that shows you, right in the moment, **how a native speaker actually heard you**.
+## The problem
 
-- 💭 **Native’s inner thoughts** — after every line, see how your partner really took it.
-- 🔁 **Conversations that keep flowing** — mistakes don’t stop the talk; corrections come at the end.
-- 🪜 **Just one step up** — not hard sentences, but ones you can reuse right away.
+- Your grammar was right — so why did the other person look puzzled?
+- There’s no way to tell whether your English sounded rude or natural.
+- Plenty of apps fix your mistakes. None tell you **how you actually sounded**.
 
 <br />
 
-<img src="./assets/en-0-main.webp" alt="" width="100%" />
+## How Landit solves it
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/en-1-scenario.webp" alt="" /></td>
-    <td width="50%"><img src="./assets/en-2-roleplay.webp" alt="" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/en-3-expression.webp" alt="" /></td>
-    <td width="50%"><img src="./assets/en-4-smalltalk.webp" alt="" /></td>
-  </tr>
-</table>
+### 🌅 Today’s scenario
+
+Dorms, classes, cafés — a real situation you’ll face abroad arrives every day.
+
+<p align="center"><img src="./assets/en-0-main.webp" alt="Today’s scenario" width="640" /></p>
+
+### 💭 Scenario talk
+
+Talk out loud with an AI character and instantly see their **inner thoughts** and facial reactions. Afterwards, every sentence comes with how it actually sounded.
+
+<p align="center"><img src="./assets/en-1-scenario.webp" alt="Scenario talk" width="640" /></p>
+
+### 🎭 Roleplay
+
+Write any situation — like talking a zombie into going vegetarian — and it becomes your own illustrated scenario. Phrases you learned get noticed; awkward sentences get fixed.
+
+<p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
+
+### 📚 Phrase learning
+
+Phrases picked from your own conversation, learned through quizzes, picture examples and pronunciation coaching.
+
+<p align="center"><img src="./assets/en-3-expression.webp" alt="Phrase learning" width="640" /></p>
+
+### ☕ Small talk
+
+Three friends with different accents and personalities **remember** your last chat and ask you first — so practice feels like catching up with a friend.
+
+<p align="center"><img src="./assets/en-4-smalltalk.webp" alt="Small talk" width="640" /></p>
 
 <p align="center"><sub>The app is currently available in Korean and Japanese.</sub></p>
 
