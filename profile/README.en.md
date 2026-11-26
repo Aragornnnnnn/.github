@@ -36,7 +36,7 @@ Real reactions only happen in real situations. Every day, a moment you’ll face
 
 ### <img src="./assets/tossface-v2/speak.png" width="26" height="26" align="absmiddle" alt="" /> Scenario talk
 
-Say something and instantly see how the other person really took it. Characters react with **8 facial expressions** and **lip-sync to English pronunciation**. When the talk ends, you get feedback and a detailed analysis for every sentence.
+Say something and see how the other person really took it. Characters shift between 8 emotions and move their mouths in sync with English pronunciation. When the talk ends, you get feedback and a detailed analysis for every sentence.
 
 <p align="center"><img src="./assets/en-1-scenario.webp" alt="Scenario talk" width="640" /></p>
 
