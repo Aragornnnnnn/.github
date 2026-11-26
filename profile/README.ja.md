@@ -40,15 +40,4 @@
 
 <br />
 
-### リポジトリ
-
-| | |
-| --- | --- |
-| [`landit-fe`](https://github.com/Aragornnnnnn/landit-fe) | Web（Next.js）とモバイルアプリ（Expo）のモノレポ |
-| [`landit-iac`](https://github.com/Aragornnnnnn/landit-iac) | サービスインフラのコード管理 |
-| [`landit-admin`](https://github.com/Aragornnnnnn/landit-admin) | 運用管理画面 |
-| [`landit-tech-docs`](https://github.com/Aragornnnnnn/landit-tech-docs) | 公開している設計資料と検証記録 |
-
-<br />
-
 <p align="center"><sub>お問い合わせやフィードバックは各リポジトリの Issue へどうぞ。</sub></p>

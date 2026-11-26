@@ -42,15 +42,4 @@ Grammatically correct English can still sound rude — and slightly broken Engli
 
 <br />
 
-### Repositories
-
-| | |
-| --- | --- |
-| [`landit-fe`](https://github.com/Aragornnnnnn/landit-fe) | Web (Next.js) and mobile app (Expo) monorepo |
-| [`landit-iac`](https://github.com/Aragornnnnnn/landit-iac) | Infrastructure as code |
-| [`landit-admin`](https://github.com/Aragornnnnnn/landit-admin) | Operations admin |
-| [`landit-tech-docs`](https://github.com/Aragornnnnnn/landit-tech-docs) | Public design docs and verification notes |
-
-<br />
-
 <p align="center"><sub>Questions or feedback? Open an issue in any repository.</sub></p>

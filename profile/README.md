@@ -40,15 +40,4 @@
 
 <br />
 
-### 저장소
-
-| | |
-| --- | --- |
-| [`landit-fe`](https://github.com/Aragornnnnnn/landit-fe) | 웹(Next.js)과 모바일 앱(Expo) 모노레포 |
-| [`landit-iac`](https://github.com/Aragornnnnnn/landit-iac) | 서비스 인프라를 코드로 관리 |
-| [`landit-admin`](https://github.com/Aragornnnnnn/landit-admin) | 운영 어드민 |
-| [`landit-tech-docs`](https://github.com/Aragornnnnnn/landit-tech-docs) | 공개 설계 문서와 검증 자료 |
-
-<br />
-
 <p align="center"><sub>문의나 피드백은 각 저장소의 Issue로 남겨 주세요.</sub></p>
