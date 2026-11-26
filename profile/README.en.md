@@ -9,10 +9,10 @@
 <p align="center">Find out how your English really sounds to native speakers.</p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="44" alt="Download on the App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="44" alt="Get it on Google Play" /></a>
-  <a href="https://www.landit.im"><img src="./assets/buttons/btn-web-en.png" height="44" alt="Landit website" /></a>
-  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-en.png" height="44" alt="Instagram @landit_kr" /></a>
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="54" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="54" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im"><img src="./assets/buttons/btn-web-en.png" height="54" alt="Landit website" /></a>
+  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-en.png" height="54" alt="Instagram @landit_kr" /></a>
 </p>
 
 <br />

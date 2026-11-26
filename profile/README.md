@@ -9,10 +9,10 @@
 <p align="center">내 영어가 원어민에게 어떻게 들리는지, 바로 알려 주는 AI 영어 회화</p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="44" alt="Download on the App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="44" alt="Get it on Google Play" /></a>
-  <a href="https://www.landit.im/ko"><img src="./assets/buttons/btn-web-ko.png" height="44" alt="랜딧 소개 페이지" /></a>
-  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-ko.png" height="44" alt="인스타그램 @landit_kr" /></a>
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="54" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="54" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im/ko"><img src="./assets/buttons/btn-web-ko.png" height="54" alt="랜딧 소개 페이지" /></a>
+  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-ko.png" height="54" alt="인스타그램 @landit_kr" /></a>
 </p>
 
 <br />
