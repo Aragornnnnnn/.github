@@ -55,7 +55,3 @@ AI 캐릭터와 말로 대화하면, 내 말을 들은 상대의 **속마음**�
 억양도 성격도 다른 세 친구가 지난 대화를 **기억하고** 먼저 말을 걸어요. 친구처럼 이어지는 대화 속에서 자연스럽게 늘어요.
 
 <p align="center"><img src="./assets/ko-4-smalltalk.webp" alt="스몰톡" width="640" /></p>
-
-<br />
-
-<p align="center"><sub>문의나 피드백은 각 저장소의 Issue로 남겨 주세요.</sub></p>
