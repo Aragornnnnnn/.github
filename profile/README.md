@@ -2,25 +2,26 @@
   <img src="./assets/banner-ko-v4.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
 </p>
 
+<p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
+
 <h1 align="center">랜딧 (Landit)</h1>
 
 <p align="center">내 영어가 원어민에게 어떻게 들리는지, 바로 알려 주는 AI 영어 회화</p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="48" alt="Download on the App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="48" alt="Get it on Google Play" /></a>
-  <a href="https://www.landit.im/ko"><img src="./assets/buttons/btn-web-ko.png" height="48" alt="랜딧 랜딩 페이지" /></a>
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="44" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="44" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im/ko"><img src="./assets/buttons/btn-web-ko.png" height="44" alt="랜딧 소개 페이지" /></a>
+  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-ko.png" height="44" alt="인스타그램 @landit_kr" /></a>
 </p>
-
-<p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
 
 <br />
 
 ## 랜딧은 이 질문에서 시작했어요
 
-- <img src="./assets/tossface-v2/sweat.png" width="20" height="20" align="absmiddle" alt="" /> 문법은 맞았는데, 상대 반응이 어딘가 어색했던 적 있나요?
-- <img src="./assets/tossface-v2/speaknoevil.png" width="20" height="20" align="absmiddle" alt="" /> 내 영어가 무례하게 들렸는지, 자연스러웠는지 알 길이 없었어요.
-- <img src="./assets/tossface-v2/thinking.png" width="20" height="20" align="absmiddle" alt="" /> 틀린 걸 고쳐 주는 앱은 많았지만, **어떻게 들렸는지**는 아무도 알려 주지 않았어요.
+- 문법은 맞았는데, 상대 반응이 어딘가 어색했던 적 있나요?
+- 내 영어가 무례하게 들렸는지, 자연스러웠는지 알 길이 없었어요.
+- 틀린 걸 고쳐 주는 앱은 많았지만, **어떻게 들렸는지**는 아무도 알려 주지 않았어요.
 
 그래서 랜딧은 **'맞았는지'보다 '어떻게 들렸는지'** 를 먼저 알려 줘요. 실제 대화처럼 말하며 상대의 반응을 보고, 대화가 끝나면 내 수준에 맞는 교정과 표현으로 한 단계씩 실력을 올려요.
 

@@ -2,25 +2,26 @@
   <img src="./assets/banner-ja-v4.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
 </p>
 
+<p align="center"><a href="./README.md">한국어</a> · <a href="./README.en.md">English</a> · <b>日本語</b></p>
+
 <h1 align="center">Landit（ランディット）</h1>
 
 <p align="center">あなたの英語がネイティブにどう聞こえるか、すぐにわかるAI英会話</p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="48" alt="Download on the App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="48" alt="Get it on Google Play" /></a>
-  <a href="https://www.landit.im/ja"><img src="./assets/buttons/btn-web-ja.png" height="48" alt="Landit ウェブサイト" /></a>
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="44" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="44" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im/ja"><img src="./assets/buttons/btn-web-ja.png" height="44" alt="Landit 紹介ページ" /></a>
+  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-ja.png" height="44" alt="Instagram @landit_kr" /></a>
 </p>
-
-<p align="center"><a href="./README.md">한국어</a> · <a href="./README.en.md">English</a> · <b>日本語</b></p>
 
 <br />
 
 ## Landitはこの問いから始まりました
 
-- <img src="./assets/tossface-v2/sweat.png" width="20" height="20" align="absmiddle" alt="" /> 文法は合っているのに、相手の反応がどこかぎこちなかったことはありませんか？
-- <img src="./assets/tossface-v2/speaknoevil.png" width="20" height="20" align="absmiddle" alt="" /> 自分の英語が失礼に聞こえたのか、自然だったのか、確かめる方法がありませんでした。
-- <img src="./assets/tossface-v2/thinking.png" width="20" height="20" align="absmiddle" alt="" /> 間違いを直してくれるアプリは多くても、**どう聞こえたか**は誰も教えてくれませんでした。
+- 文法は合っているのに、相手の反応がどこかぎこちなかったことはありませんか？
+- 自分の英語が失礼に聞こえたのか、自然だったのか、確かめる方法がありませんでした。
+- 間違いを直してくれるアプリは多くても、**どう聞こえたか**は誰も教えてくれませんでした。
 
 だからLanditは **「正しかったか」より「どう聞こえたか」** を先に伝えます。本当の会話のように話して相手の反応を確かめ、会話のあとは自分のレベルに合った添削とフレーズで一歩ずつ実力を伸ばします。
 

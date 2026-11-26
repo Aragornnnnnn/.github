@@ -2,25 +2,26 @@
   <img src="./assets/banner-en-v4.webp" alt="Landit — Speak English that actually lands" width="100%" />
 </p>
 
+<p align="center"><a href="./README.md">한국어</a> · <b>English</b> · <a href="./README.ja.md">日本語</a></p>
+
 <h1 align="center">Landit</h1>
 
 <p align="center">Find out how your English really sounds to native speakers.</p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="48" alt="Download on the App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="48" alt="Get it on Google Play" /></a>
-  <a href="https://www.landit.im"><img src="./assets/buttons/btn-web-en.png" height="48" alt="Landit website" /></a>
+  <a href="https://apps.apple.com/app/id6787414201"><img src="./assets/buttons/btn-app.png" height="44" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="./assets/buttons/btn-play.png" height="44" alt="Get it on Google Play" /></a>
+  <a href="https://www.landit.im"><img src="./assets/buttons/btn-web-en.png" height="44" alt="Landit website" /></a>
+  <a href="https://www.instagram.com/landit_kr"><img src="./assets/buttons/btn-insta-en.png" height="44" alt="Instagram @landit_kr" /></a>
 </p>
-
-<p align="center"><a href="./README.md">한국어</a> · <b>English</b> · <a href="./README.ja.md">日本語</a></p>
 
 <br />
 
 ## Landit started with this question
 
-- <img src="./assets/tossface-v2/sweat.png" width="20" height="20" align="absmiddle" alt="" /> Your grammar was right — so why did the other person look puzzled?
-- <img src="./assets/tossface-v2/speaknoevil.png" width="20" height="20" align="absmiddle" alt="" /> There was no way to tell whether your English sounded rude or natural.
-- <img src="./assets/tossface-v2/thinking.png" width="20" height="20" align="absmiddle" alt="" /> Plenty of apps fixed your mistakes. None told you **how you actually sounded**.
+- Your grammar was right — so why did the other person look puzzled?
+- There was no way to tell whether your English sounded rude or natural.
+- Plenty of apps fixed your mistakes. None told you **how you actually sounded**.
 
 So Landit shows you **how you sounded, not just whether you were right**. You talk like in a real conversation, see how the other person reacts, and afterwards build your skills step by step with corrections and phrases matched to your level.
 
