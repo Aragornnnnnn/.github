@@ -23,7 +23,7 @@
 - There was no way to tell whether your English sounded rude or natural.
 - Plenty of apps fixed your mistakes. None told you **how you actually sounded**.
 
-So Landit shows you **how you sounded, not just whether you were right**. You talk like in a real conversation, see how the other person reacts, and afterwards build your skills step by step with corrections and phrases matched to your level.
+So Landit focuses on how you sounded, not just whether you were right. You talk like in a real conversation, see how the other person reacts, and afterwards build your skills step by step with corrections and phrases matched to your level.
 
 <br />
 
