@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%ED%8F%89%EC%A0%90-4.8-e3b341?style=flat" alt="평점 4.8" /> <img src="https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-4%2C000%2B-4a7bd6?style=flat" alt="다운로드 4,000+" /> <img src="https://img.shields.io/badge/%EC%98%81%EC%96%B4%EB%A1%9C%20%EA%B1%B4%EB%84%A8%20%EB%A7%90-29%2C000%2B-4c9a52?style=flat" alt="영어로 건넨 말 29,000+" />
+  <img src="https://img.shields.io/badge/%ED%8F%89%EC%A0%90-4.8-e3b341?style=flat" alt="평점 4.8" height="26" /> <img src="https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-4%2C000%2B-4a7bd6?style=flat" alt="다운로드 4,000+" height="26" /> <img src="https://img.shields.io/badge/%EC%98%81%EC%96%B4%EB%A1%9C%20%EA%B1%B4%EB%84%A8%20%EB%A7%90-29%2C000%2B-4c9a52?style=flat" alt="영어로 건넨 말 29,000+" height="26" />
 </p>
 
 <p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
