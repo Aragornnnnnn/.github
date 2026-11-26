@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="./assets/banner-en.webp" alt="Landit — Speak English that actually lands" width="100%" />
-</p>
+<h1 align="center">Landit</h1>
+
+<p align="center">Find out how your English really sounds to native speakers.</p>
+
+<h3 align="center">
+  <a href="https://www.landit.im">🌐 Web</a>
+  &nbsp;|&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
+  &nbsp;|&nbsp;
+  <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
+</h3>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-  <a href="https://www.landit.im"><img src="https://img.shields.io/badge/landit.im-E07A3A?style=for-the-badge" alt="landit.im" /></a>
+  <img src="https://img.shields.io/badge/Rating-4.8-e3b341?style=flat" alt="Rating 4.8" /> <img src="https://img.shields.io/badge/Downloads-4%2C000%2B-4a7bd6?style=flat" alt="Downloads 4,000+" /> <img src="https://img.shields.io/badge/Lines%20spoken-29%2C000%2B-4c9a52?style=flat" alt="Lines spoken 29,000+" />
 </p>
 
 <p align="center"><a href="./README.md">한국어</a> · <b>English</b> · <a href="./README.ja.md">日本語</a></p>
+
+<p align="center">
+  <img src="./assets/banner-en.webp" alt="Landit — Speak English that actually lands" width="100%" />
+</p>
 
 <br />
 

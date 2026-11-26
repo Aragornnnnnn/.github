@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="./assets/banner-ja.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
-</p>
+<h1 align="center">Landit（ランディット）</h1>
+
+<p align="center">あなたの英語がネイティブにどう聞こえるか、すぐにわかるAI英会話</p>
+
+<h3 align="center">
+  <a href="https://www.landit.im">🌐 Web</a>
+  &nbsp;|&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
+  &nbsp;|&nbsp;
+  <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
+</h3>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-  <a href="https://www.landit.im"><img src="https://img.shields.io/badge/landit.im-E07A3A?style=for-the-badge" alt="landit.im" /></a>
+  <img src="https://img.shields.io/badge/%E8%A9%95%E4%BE%A1-4.8-e3b341?style=flat" alt="評価 4.8" /> <img src="https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-4%2C000%2B-4a7bd6?style=flat" alt="ダウンロード 4,000+" /> <img src="https://img.shields.io/badge/%E8%A9%B1%E3%81%97%E3%81%9F%E8%8B%B1%E6%96%87-29%2C000%2B-4c9a52?style=flat" alt="話した英文 29,000+" />
 </p>
 
 <p align="center"><a href="./README.md">한국어</a> · <a href="./README.en.md">English</a> · <b>日本語</b></p>
+
+<p align="center">
+  <img src="./assets/banner-ja.webp" alt="Landit — ネイティブに通じるAI英会話アプリ" width="100%" />
+</p>
 
 <br />
 

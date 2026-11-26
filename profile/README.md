@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="./assets/banner-ko.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
-</p>
+<h1 align="center">랜딧 (Landit)</h1>
+
+<p align="center">내 영어가 원어민에게 어떻게 들리는지, 바로 알려 주는 AI 영어 회화</p>
+
+<h3 align="center">
+  <a href="https://www.landit.im">🌐 Web</a>
+  &nbsp;|&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.saynow.app">📱 Android</a>
+  &nbsp;|&nbsp;
+  <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
+</h3>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6787414201"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.saynow.app"><img src="https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-  <a href="https://www.landit.im"><img src="https://img.shields.io/badge/landit.im-E07A3A?style=for-the-badge" alt="landit.im" /></a>
+  <img src="https://img.shields.io/badge/%ED%8F%89%EC%A0%90-4.8-e3b341?style=flat" alt="평점 4.8" /> <img src="https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-4%2C000%2B-4a7bd6?style=flat" alt="다운로드 4,000+" /> <img src="https://img.shields.io/badge/%EC%98%81%EC%96%B4%EB%A1%9C%20%EA%B1%B4%EB%84%A8%20%EB%A7%90-29%2C000%2B-4c9a52?style=flat" alt="영어로 건넨 말 29,000+" />
 </p>
 
 <p align="center"><b>한국어</b> · <a href="./README.en.md">English</a> · <a href="./README.ja.md">日本語</a></p>
+
+<p align="center">
+  <img src="./assets/banner-ko.webp" alt="랜딧 — 원어민에게 통하는 AI 영어 회화" width="100%" />
+</p>
 
 <br />
 
