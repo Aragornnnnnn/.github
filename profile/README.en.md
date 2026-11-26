@@ -42,7 +42,7 @@ Say something and see how the other person really took it. Characters shift betw
 
 ### <img src="./assets/tossface-v2/books.png" width="26" height="26" align="absmiddle" alt="" /> Phrase learning
 
-Landit analyzes the conversation you just had and finds where you could have sounded more natural. Those improvements become your next lesson: phrases just one step above your level, made yours through quizzes, examples and pronunciation.
+Landit analyzes the conversation you just had, finds phrases you could have said more naturally, and turns them straight into a lesson. Guess them in a quiz first, learn the nuance through pictures and examples, then get your pronunciation corrected.
 
 <p align="center"><img src="./assets/en-3-expression.webp" alt="Phrase learning" width="640" /></p>
 

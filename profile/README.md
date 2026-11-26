@@ -42,7 +42,7 @@
 
 ### <img src="./assets/tossface-v2/books.png" width="26" height="26" align="absmiddle" alt="" /> 표현 학습
 
-방금 대화를 분석해 더 자연스럽게 말할 수 있었던 부분을 찾아 줘요. 그 개선점이 그대로 다음 공부가 되고, 내 수준보다 딱 한 단계 위 표현을 퀴즈·예문·발음까지 내 것으로 만들어요.
+방금 나눈 대화를 분석해 더 자연스럽게 말할 수 있었던 표현을 찾아 주고, 그 표현으로 바로 학습을 이어가요. 퀴즈로 먼저 맞혀 보고, 그림과 예문으로 뉘앙스를 익힌 뒤, 발음까지 교정받아요.
 
 <p align="center"><img src="./assets/ko-3-expression.webp" alt="표현 학습" width="640" /></p>
 
