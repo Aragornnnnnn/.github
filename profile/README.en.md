@@ -57,7 +57,3 @@ Three friends with different accents and personalities **remember** your last ch
 <p align="center"><img src="./assets/en-4-smalltalk.webp" alt="Small talk" width="640" /></p>
 
 <p align="center"><sub>The app is currently available in Korean and Japanese.</sub></p>
-
-<br />
-
-<p align="center"><sub>Questions or feedback? Open an issue in any repository.</sub></p>
