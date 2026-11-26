@@ -24,35 +24,41 @@
 
 <br />
 
-## How Landit solves it
+## So Landit…
+
+Landit shows you **how you sounded, not just whether you were right**. You talk like in a real conversation, see how the other person reacts, and afterwards level up step by step with corrections and phrases matched to your level.
+
+<br />
+
+## A day with Landit
 
 ### 🌅 Today’s scenario
 
-Dorms, classes, cafés — a real situation you’ll face abroad arrives every day.
+Real reactions only happen in real situations. Every day, a moment you’ll face abroad — your first day in the dorm, a class, a café — arrives **at a difficulty matched to your level**.
 
 <p align="center"><img src="./assets/en-0-main.webp" alt="Today’s scenario" width="640" /></p>
 
 ### 💭 Scenario talk
 
-Talk out loud with an AI character and instantly see their **inner thoughts** and facial reactions. Afterwards, every sentence comes with how it actually sounded.
+Say something and instantly see how the other person really took it. Kind words make them smile; rude ones make them 💢 angry. Afterwards, every sentence comes with how it actually sounded.
 
 <p align="center"><img src="./assets/en-1-scenario.webp" alt="Scenario talk" width="640" /></p>
 
-### 🎭 Roleplay
-
-Write any situation — like talking a zombie into going vegetarian — and it becomes your own illustrated scenario. Phrases you learned get noticed; awkward sentences get fixed.
-
-<p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
-
 ### 📚 Phrase learning
 
-Phrases picked from your own conversation, learned through quizzes, picture examples and pronunciation coaching.
+Every awkward moment becomes your next lesson. Landit picks phrases **just one step above your level** from your own conversation, and you make them yours through quizzes, examples and pronunciation.
 
 <p align="center"><img src="./assets/en-3-expression.webp" alt="Phrase learning" width="640" /></p>
 
+### 🎭 Roleplay
+
+Practice situations no textbook covers. Write any scene — like talking a zombie into going vegetarian — and it becomes a conversation. Use a phrase you learned, and Landit notices.
+
+<p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
+
 ### ☕ Small talk
 
-Three friends with different accents and personalities **remember** your last chat and ask you first — so practice feels like catching up with a friend.
+English that lands grows through relationships. Three friends **remember** your last chat and ask how you’ve been, so it feels like catching up with friends, not studying.
 
 <p align="center"><img src="./assets/en-4-smalltalk.webp" alt="Small talk" width="640" /></p>
 
