@@ -12,10 +12,6 @@
   <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E8%A9%95%E4%BE%A1-4.8-e3b341?style=flat" alt="評価 4.8" height="26" /> <img src="https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-4%2C000%2B-4a7bd6?style=flat" alt="ダウンロード 4,000+" height="26" /> <img src="https://img.shields.io/badge/%E8%A9%B1%E3%81%97%E3%81%9F%E8%8B%B1%E6%96%87-29%2C000%2B-4c9a52?style=flat" alt="話した英文 29,000+" height="26" />
-</p>
-
 <p align="center"><a href="./README.md">한국어</a> · <a href="./README.en.md">English</a> · <b>日本語</b></p>
 
 <br />

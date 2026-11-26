@@ -12,10 +12,6 @@
   <a href="https://apps.apple.com/app/id6787414201">🍎 iOS</a>
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rating-4.8-e3b341?style=flat" alt="Rating 4.8" height="26" /> <img src="https://img.shields.io/badge/Downloads-4%2C000%2B-4a7bd6?style=flat" alt="Downloads 4,000+" height="26" /> <img src="https://img.shields.io/badge/Lines%20spoken-29%2C000%2B-4c9a52?style=flat" alt="Lines spoken 29,000+" height="26" />
-</p>
-
 <p align="center"><a href="./README.md">한국어</a> · <b>English</b> · <a href="./README.ja.md">日本語</a></p>
 
 <br />
