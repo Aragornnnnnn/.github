@@ -58,4 +58,7 @@ Three friends with different accents and personalities remember your last chat a
 From the job interview you have next week to talking a zombie into going vegetarian, just write the situation and the conversation starts. Use a phrase you learned and Landit notices; awkward sentences get fixed on the spot.
 
 <p align="center"><img src="./assets/en-2-roleplay.webp" alt="Roleplay" width="640" /></p>
+
+<br />
+
 <p align="center"><sub>The app is currently available in Korean and Japanese.</sub></p>
